@@ -1,0 +1,58 @@
+
+.jumbotron {
+  box-sizing: border-box;
+  height: 1200px;
+  background-image: url(https://cdn.shutterstock.com/shutterstock/videos/17372809/thumb/1.jpg);
+  font-family: arial;
+  }
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mainArea {
+  background-color: rgba(0,0,0,.5);
+  font-weight: bold;
+  color: white;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: gray;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: white;
+  font-weight: bold;
+  padding-left: 14px;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background-color: white;
+  color: white;
+}
